@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    
+    <!-- weapons-->
+    <!-- AK-12 -->
+    <entityname.AK-12>AK-12</entityname.AK-12>
+    <entitydescription.AK-12>Standart assault rifle in 5.45x39mm</entitydescription.AK-12>
+    <!-- RPK-74 -->
+    <entityname.RPK-74>RPK-74</entityname.RPK-74>
+    <entitydescription.RPK-74></entitydescription.RPK-74>
+    <!-- RPK-16 -->
+    <entityname.RPK-16>RPK-16</entityname.RPK-16>
+    <entitydescription.RPK-16>95 round SAW in 5.45x39mm</entitydescription.RPK-16>
+    <!-- PP-2000 -->
+    <entityname.PP-2000>PP-2000</entityname.PP-2000>
+    <entitydescription.PP-2000>Fast smg in 9x19mm</entitydescription.PP-2000>
+    <!-- vityaz -->
+    <entityname.vityaz>PP-19 vityaz</entityname.vityaz>
+    <entitydescription.vityaz>SMG in 9x19mm</entitydescription.vityaz>
+    <!-- ADS -->
+    <entityname.ADS>ADS</entityname.ADS>
+    <entitydescription.ADS>Amphibious rifle made for divers, uses AK-74 magazines</entitydescription.ADS>
+    <!-- RMB-93 -->
+    <entityname.RMB-93>RMB-93</entityname.RMB-93>
+    <entitydescription.RMB-93>Close quarters pump-action shotgun</entitydescription.RMB-93>
+    <!-- MP-443 -->
+    <entityname.MP-443>MP-443 Grach</entityname.MP-443>
+    <entitydescription.MP-443></entitydescription.MP-443>
+    <!-- ASVal -->
+    <entityname.ASVal>AS Val</entityname.ASVal>
+    <entitydescription.ASVal>9x39mm integraly suppressed assault rifle</entitydescription.ASVal>
+    <!-- AN-94 -->
+    <entityname.AN-94>AN-94</entityname.AN-94>
+    <entitydescription.AN-94>5.45x39mm assault rifle, uses AK-74 magazines</entitydescription.AN-94>
+    <!-- PKP -->
+    <entityname.PKP>PKP</entityname.PKP>
+    <entitydescription.PKP>7.64x54mmR maschinegun</entitydescription.PKP>
+    <!-- Saiga-12 -->
+    <entityname.Saiga-12>Saiga-12</entityname.Saiga-12>
+    <entitydescription.Saiga-12>Magazine fed semi-auto shotgun</entitydescription.Saiga-12>
+    <!-- KSVK -->
+    <entityname.KSVK>KSVK</entityname.KSVK>
+    <entitydescription.KSVK>12.7mm Anti-materiel rifle</entitydescription.KSVK>
+    <!-- GM-94 -->
+    <entityname.GM-94>GM-94</entityname.GM-94>
+    <entitydescription.GM-94>3 round Grenade launcher</entitydescription.GM-94>
+    <!-- SVDM -->
+    <entityname.SVDM>SVDM</entityname.SVDM>
+    <entitydescription.SVDM>7.62x54mmR marksman rifle</entitydescription.SVDM>
+
+    <!-- magazines -->
+    <!-- ak12mag -->
+    <entityname.ak12mag>AK-12 Magazine</entityname.ak12mag>
+    <!-- rpk74mag -->
+    <entityname.rpk74mag>RPK-74 Magazine</entityname.rpk74mag>
+    <!-- rpk16mag -->
+    <entityname.rpk16mag>RPK-16 Drum</entityname.rpk16mag>
+    <!-- pp19mag -->
+    <entityname.pp19mag>PP-19 Magazine</entityname.pp19mag>
+    <!-- advmag -->
+    <entityname.advmag>AK-74 Magazine</entityname.advmag>
+    <!-- grachmag -->
+    <entityname.grachmag>MP-443 Magazine</entityname.grachmag>
+    <!-- valmag -->
+    <entityname.valmag>AS Val Magazine</entityname.valmag>
+    <!-- saigamag -->
+    <entityname.saigamag>Saiga-12 Magazine</entityname.saigamag>
+    <!-- PKPmag -->
+    <entityname.PKPmag>PKP Magazine</entityname.PKPmag>
+    <!-- pp2000mag -->
+    <entityname.pp2000mag>PP-2000 Magazine</entityname.pp2000mag>
+    <!-- ksvkmag -->
+    <entityname.ksvkmag>KSVK Magazine</entityname.ksvkmag>
+    <!-- svdmmag -->
+    <entityname.svdmmag>SVDM Magazine</entityname.svdmmag>
+
+</infotexts>
