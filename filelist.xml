@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentpackage name="Modern Russian Weapons RU" corepackage="false" modversion="1.0" gameversion="0.21.6.0">
-    <Text file="%ModDir%/Texts/English/ModernRussianWeapons.xml">
-    <Text file="%ModDir%/Texts/Russian/ModernRussianWeapons.xml">
+    <Text file="%ModDir%/Texts/English/ModernRussianWeapons.xml" />
+    <Text file="%ModDir%/Texts/Russian/ModernRussianWeapons.xml" />
 </contentpackage>
